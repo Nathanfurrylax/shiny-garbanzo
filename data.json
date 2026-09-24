@@ -1,0 +1,378 @@
+{
+  "profil": {
+    "titre_page": "Pour en savoir plus sur moi — Neku 🌸",
+    "emoji": "🌸",
+    "titre_ligne1": "Pour en savoir",
+    "titre_ligne2": "plus sur moi !",
+    "nom": "Neku",
+    "pseudo": "@Nathanfurry_lax",
+    "avertissement": "🔞 Contenu NSFW — Réservé aux adultes consentants",
+    "footer": "Neku · @Nathanfurry_lax · Contenu NSFW"
+  },
+  "navigation": [
+    {
+      "label": "Accueil",
+      "cible": "hero"
+    },
+    {
+      "label": "Kinks",
+      "cible": "kinks"
+    },
+    {
+      "label": "Personnages",
+      "cible": "personnages"
+    },
+    {
+      "label": "ERP-IRL",
+      "cible": "erp"
+    }
+  ],
+  "kinks": {
+    "titre": "Mes Kinks Principales",
+    "sous_titre": "Sélectionnées d'après mes préférences NSFW — principalement en Hentai",
+    "intro": [
+      "Ces kinks reflètent ce qui m'attire le plus dans le NSFW et les Hentais.",
+      "N'hésite pas à me demander des détails si tu es curieux(se) !"
+    ],
+    "liste": [
+      "BDSM",
+      "Latex",
+      "Bondage",
+      "PetPlay",
+      "Hard",
+      "CBT",
+      "Chasteté",
+      "Femdom",
+      "Paws",
+      "Sextoys",
+      "Breathplay",
+      "Démon / Diable",
+      "Asphyxie",
+      "Tentacule",
+      "Dirty Talk",
+      "ThighJob"
+    ],
+    "note": {
+      "titre": "Note importante",
+      "texte": "J'adore qu'on me domine en faisant passer par un et/ou plusieurs autre(s) personnage(s). N'hésite pas à me proposer un scénario ou un personnage en particulier !"
+    }
+  },
+  "personnages": {
+    "titre": "Mes Personnages Favoris",
+    "sous_titre": "Les personnages qui me font le plus rêver ✨",
+    "sources": [
+      {
+        "nom": "Vocaloid",
+        "couleurs": {
+          "accent": "#00e5ff",
+          "texte": "#67e8f9",
+          "fond": "#005f73"
+        },
+        "personnages": [
+          {
+            "nom": "Hatsune Miku",
+            "image": "images/hatsune-miku.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Helluva Boss",
+        "couleurs": {
+          "accent": "#ff6b35",
+          "texte": "#fdba74",
+          "fond": "#4a0e00"
+        },
+        "personnages": [
+          {
+            "nom": "Loona",
+            "image": "images/loona.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Animal Crossing",
+        "couleurs": {
+          "accent": "#6ee7b7",
+          "texte": "#a7f3d0",
+          "fond": "#064e3b"
+        },
+        "personnages": [
+          {
+            "nom": "Tous les personnages",
+            "image": "images/tous-les-personnages.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Pokémon",
+        "couleurs": {
+          "accent": "#facc15",
+          "texte": "#fde68a",
+          "fond": "#3c5aa6"
+        },
+        "personnages": [
+          {
+            "nom": "Sylveon",
+            "image": "images/sylveon.jpg"
+          },
+          {
+            "nom": "Vulpix",
+            "image": "images/vulpix.jpg"
+          },
+          {
+            "nom": "Lopunny",
+            "image": "images/lopunny.jpg"
+          },
+          {
+            "nom": "Goupelin",
+            "image": "images/goupelin.jpg"
+          },
+          {
+            "nom": "Meowscarade",
+            "image": "images/meowscarade.jpg"
+          },
+          {
+            "nom": "Gardevoir",
+            "image": "images/gardevoir.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "The Rising of the Shield Hero",
+        "couleurs": {
+          "accent": "#60a5fa",
+          "texte": "#bfdbfe",
+          "fond": "#1e3a8a"
+        },
+        "personnages": [
+          {
+            "nom": "Raphtalia",
+            "image": "images/raphtalia.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Honkai: Star Rail",
+        "couleurs": {
+          "accent": "#c084fc",
+          "texte": "#e9d5ff",
+          "fond": "#4c1d95"
+        },
+        "personnages": [
+          {
+            "nom": "Kafka",
+            "image": "images/kafka.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Konosuba",
+        "couleurs": {
+          "accent": "#38bdf8",
+          "texte": "#bae6fd",
+          "fond": "#0c4a6e"
+        },
+        "personnages": [
+          {
+            "nom": "Aqua",
+            "image": "images/aqua.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Fairy Tail",
+        "couleurs": {
+          "accent": "#f43f5e",
+          "texte": "#fda4af",
+          "fond": "#881337"
+        },
+        "personnages": [
+          {
+            "nom": "Erza Scarlet",
+            "image": "images/erza-scarlet.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "My Dress-Up Darling",
+        "couleurs": {
+          "accent": "#f472b6",
+          "texte": "#fbcfe8",
+          "fond": "#831843"
+        },
+        "personnages": [
+          {
+            "nom": "Marine Kitagawa",
+            "image": "images/marine-kitagawa.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Frieren",
+        "couleurs": {
+          "accent": "#a7f3d0",
+          "texte": "#d1fae5",
+          "fond": "#134e4a"
+        },
+        "personnages": [
+          {
+            "nom": "Frieren",
+            "image": "images/frieren.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Genshin Impact",
+        "couleurs": {
+          "accent": "#fbbf24",
+          "texte": "#fde68a",
+          "fond": "#78350f"
+        },
+        "personnages": [
+          {
+            "nom": "Yumemizuki",
+            "image": "images/yumemizuki.jpg"
+          },
+          {
+            "nom": "Furina",
+            "image": "images/furina.jpg"
+          },
+          {
+            "nom": "Mavuika",
+            "image": "images/mavuika.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Valorant",
+        "couleurs": {
+          "accent": "#ff4655",
+          "texte": "#fca5a5",
+          "fond": "#1a0000"
+        },
+        "personnages": [
+          {
+            "nom": "Clove",
+            "image": "images/clove.jpg"
+          },
+          {
+            "nom": "Néon",
+            "image": "images/neon.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "tinygaypirate",
+        "couleurs": {
+          "accent": "#2dd4bf",
+          "texte": "#99f6e4",
+          "fond": "#134e4a"
+        },
+        "personnages": [
+          {
+            "nom": "Apogee",
+            "image": "images/apogee.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "MiSide",
+        "couleurs": {
+          "accent": "#a78bfa",
+          "texte": "#ddd6fe",
+          "fond": "#2e1065"
+        },
+        "personnages": [
+          {
+            "nom": "Mita",
+            "image": "images/mita.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Bloom",
+        "couleurs": {
+          "accent": "#f9a8d4",
+          "texte": "#fbcfe8",
+          "fond": "#831843"
+        },
+        "personnages": [
+          {
+            "nom": "Waguri",
+            "image": "images/waguri.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "My Hero Academia",
+        "couleurs": {
+          "accent": "#7c3aed",
+          "texte": "#c4b5fd",
+          "fond": "#1e0a3c"
+        },
+        "personnages": [
+          {
+            "nom": "Himiko Toga",
+            "image": "images/himiko-toga.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Nagatoro",
+        "couleurs": {
+          "accent": "#f97316",
+          "texte": "#fed7aa",
+          "fond": "#7c2d12"
+        },
+        "personnages": [
+          {
+            "nom": "Nagatoro",
+            "image": "images/nagatoro.jpg"
+          }
+        ]
+      },
+      {
+        "nom": "Bunny Girl Senpai",
+        "couleurs": {
+          "accent": "#60a5fa",
+          "texte": "#bfdbfe",
+          "fond": "#1e3a8a"
+        },
+        "personnages": [
+          {
+            "nom": "Sakuragi Mai",
+            "image": "images/sakuragi-mai.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "erp": {
+    "titre": "ERP — IRL",
+    "acronyme": [
+      {
+        "lettre": "É",
+        "reste": "rotisme"
+      },
+      {
+        "lettre": "R",
+        "reste": "olePlay"
+      },
+      {
+        "lettre": "I",
+        "reste": "n"
+      },
+      {
+        "lettre": "R",
+        "reste": "eal"
+      },
+      {
+        "lettre": "L",
+        "reste": "ife"
+      }
+    ],
+    "bouton_texte": "Voir des exemples →",
+    "bouton_lien": "https://drive.google.com/file/d/1yElan1aqNx73OgqhiRJG9VU6YBU0155y/view",
+    "couleur_lettre": "#c084fc"
+  }
+}
